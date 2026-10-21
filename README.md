@@ -1,6 +1,8 @@
 # RTK Dashboard
 
-A small local dashboard for **Rust Token Killer (RTK)**. See how many command output tokens you save, compare models, and filter usage by project.
+A small local dashboard for [**Rust Token Killer (RTK)**](https://www.rtk-ai.app/). See how many command output tokens you save, compare models, and filter usage by project.
+
+An independent dashboard interface, not affiliated with or maintained by the RTK project. Source: [ozardali/rtk-dashboard](https://github.com/ozardali/rtk-dashboard).
 
 Built with Python and plain JavaScript. No packages to install, no cloud account, and no tracking.
 
