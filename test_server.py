@@ -2,11 +2,8 @@ import json
 from pathlib import Path
 import sqlite3
 import tempfile
-import threading
 import unittest
-import urllib.request
-import urllib.error
-from server import Handler, ThreadingHTTPServer, statistics
+from server import Handler, statistics
 
 class DashboardTests(unittest.TestCase):
     def setUp(self):
